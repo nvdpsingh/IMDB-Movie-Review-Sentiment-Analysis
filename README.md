@@ -28,15 +28,27 @@ A deep learning project built with TensorFlow and Keras to analyze the sentiment
 
 ---
 
-## 📂 Project Structure
+Certainly! Here’s the ready-to-copy and properly formatted Project Structure section for your README.md file:
 
-📦 imdb-sentiment-rnn
-├── 📜 README.md
-├── 📓 imdb_sentiment_rnn.ipynb
-├── 📦 models/
-│   └── simple_rnn_imdb.h5
-├── 📄 requirements.txt
-└── 📄 LICENSE
+⸻
+
+📂 Project Structure
+
+### 📂 Project Structure
+
+imdb-sentiment-rnn/
+├── imdb_sentiment_rnn.ipynb       # Main Jupyter Notebook with full pipeline
+└── simple_rnn_imdb.h5             # Trained model saved in HDF5 format
+├── requirements.txt               # List of Python packages needed to run the project
+├── LICENSE                        # MIT License for open source use
+└── README.md                      # This file – project overview and documentation
+
+
+
+
+⸻
+
+✅ Just paste this into your README.md under the Project Structure heading. Let me know if you want a GitHub Actions CI/CD structure or a .gitignore section next.
 
 ---
 
