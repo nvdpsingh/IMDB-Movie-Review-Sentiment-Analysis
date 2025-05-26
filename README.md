@@ -24,21 +24,18 @@ A deep learning project built with TensorFlow and Keras to analyze the sentiment
 
 - **Language**: Python
 - **Libraries**: TensorFlow, Keras, NumPy, Pandas
-- **Tools**: Jupyter Notebook, Matplotlib (optional for visualization)
+- **Tools**: Jupyter Notebook, Matplotlib
 
 ---
 
-Certainly! Here’s the ready-to-copy and properly formatted Project Structure section for your README.md file:
-
-⸻
-
-📂 Project Structure
 
 ### 📂 Project Structure
 
 imdb-sentiment-rnn/
-├── imdb_sentiment_rnn.ipynb       # Main Jupyter Notebook with full pipeline
-└── simple_rnn_imdb.h5             # Trained model saved in HDF5 format
+├── Embedding.ipynb                #EmbeddingLayer Jupyter Notebook
+├── simplernn.ipynb                # Main Jupyter Notebook with full pipeline
+├── prediction.ipynb               # Jupyter Notebook where tested the model
+├── simple_rnn_imdb.h5             # Trained model saved in HDF5 format
 ├── requirements.txt               # List of Python packages needed to run the project
 ├── LICENSE                        # MIT License for open source use
 └── README.md                      # This file – project overview and documentation
